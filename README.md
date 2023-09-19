@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vincent Goles Ontuca a Third Year IT Student ✨✨✨
+- 👋 Hi, I’m Vincent Goles Ontuca an IT Staff at DepED Leyte Division Office  ✨✨✨
 - 👀 I’m interested in Desktop Application and Web Development.
 - 🌱 I’m currently learning Full-Stack Web Developmment.
 - 💞️ I’m looking to collaborate on someone who's passionate on coding.
